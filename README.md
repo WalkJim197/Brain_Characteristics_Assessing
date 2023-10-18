@@ -4,7 +4,7 @@ This repository accompanies our research paper titled "[Comparative Analysis of 
 
 
 
-**Authors:** Junlin Jing1  Benjamin Klugah-Brown1* Shiyu Xia1 Min Sheng1  Bharat B. Biswal1, 2*
+**Authors:** Junlin Jing,  Benjamin Klugah-Brown*, Shiyu Xia, Min Sheng,  Bharat B. Biswal*
 
 
  
