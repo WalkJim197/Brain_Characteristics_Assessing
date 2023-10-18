@@ -1,0 +1,9 @@
+目前原始文件是经过fisherZ变化的，所以在计算模块划分时用的是原始z矩阵
+然后再对原始矩阵进行fisherZ逆变换得到r矩阵，画图所用的矩阵为r矩阵
+
+GIG_ASD.fig为最后的模块划分图
+GIG_ASD_FNC_fisherZ.mat 为组水平原始z矩阵
+GIG_ASD_FNC_changelabel.mat  为模块划分后将同一个模块的ROI放在一起
+module_GIG_ASD_FNC.mat 第1,3列分别为模块划分和ROI序号，第2列是顺序不用管
+GIG_HC_FNC.mat   r矩阵
+其他文件夹与此命名一致
